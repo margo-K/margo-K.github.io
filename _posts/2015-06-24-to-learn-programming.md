@@ -16,6 +16,8 @@ I'm sharing these because I'd like to be always be a person who is not afraid to
 
 I took a databases class in college and have used both SQL- and NoSQL- based databases for various projects, but I haven't spent a lot of time learning how to write really great SQL queries. I've only recently discovered how much expressiveness there is in the language, and I'd like to more fully take advantage of it. I'm also pretty persuaded by [Jessica Kirkpatrick's](http://berkeleyjess.blogspot.de/2015/04/what-is-data-scientist.html) point that SQL should be at the top of your list to learn as a data scientist. Some of the things on my list include more effectively using window functions & partitions, building good indexes, benchmarking and optimizing queries and some [other things](http://blog.yhathq.com/posts/sql-for-data-scientists.html).
 
+Resource: [PosgreSQL Exercises by Alisdair Owens](http://pgexercises.com/). Really awesome resource for practicing queries that go beyond just basic SELECT, WHERE and GROUP BY. The exercises also get you thinking about real things you would want to do as an analyst.
+
 ### pandas
 
 I've worked with pandas a lot over the years, but I've realized that I'm very proficient in a certain subset of its capabilities, but there are other things I've never even tried. I'd like to go through a comprehensive guide and identify the tips/recipes/best practices which I hadn't heard of and incorporate them into my daily practice.
